@@ -1,0 +1,22 @@
+# Santiago Fernandez
+
+**Email:** santiago.fernandez@example.com
+**Location:** Berlin, Germany
+
+## Summary
+Experienced AI Product Manager with over 8 years of experience building machine learning applications. Specialized in natural language processing and agentic systems.
+
+## Experience
+**Head of Applied AI** at TechCorp (2020 - Present)
+- Led a team of 15 engineers and researchers to build internal AI tools.
+- Deployed LLM agents that reduced customer support response times by 40%.
+
+**Senior Data Scientist** at DataWorks (2016 - 2020)
+- Developed predictive models for customer churn.
+- Built NLP pipelines for sentiment analysis.
+
+## Skills
+Python, Machine Learning, LangChain, PyTorch, OpenAI API, Product Management.
+
+## Education
+BSc Computer Science, University of Technology (2012-2016)

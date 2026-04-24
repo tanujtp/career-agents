@@ -1,0 +1,30 @@
+# graphify ignore — career-ops
+# Skip generated output, deps, large binary/data files
+
+# Output / generated
+output/
+graphify-out/
+batch/logs/
+batch/merged/
+
+# Node dependencies
+node_modules/
+.pnpm-store/
+
+# Python env
+graphify-venv/
+__pycache__/
+*.pyc
+*.egg-info/
+.venv/
+
+# Fonts (binary)
+fonts/
+
+# Large data files unlikely to add graph value
+data/scan-history.tsv
+
+# Lock files
+package-lock.json
+yarn.lock
+pnpm-lock.yaml

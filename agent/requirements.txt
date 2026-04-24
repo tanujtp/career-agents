@@ -1,0 +1,32 @@
+# career-ops LangChain agent dependencies
+
+# LangChain core
+langchain>=0.3.0
+langchain-core>=0.3.0
+langchain-community>=0.3.0
+langchain-openai>=0.2.0
+
+# OpenAI SDK
+openai>=1.40.0
+
+# Web fetching
+requests>=2.32.0
+beautifulsoup4>=4.12.0
+lxml>=5.0.0
+
+# Search (free, no API key)
+duckduckgo-search>=6.0.0
+
+# Config / env
+python-dotenv>=1.0.0
+pyyaml>=6.0.0
+
+# Document Parsing
+pymupdf>=1.23.0
+python-docx>=1.1.0
+
+# Local UI Server
+fastapi
+uvicorn
+python-multipart
+markdown

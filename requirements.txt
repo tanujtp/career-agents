@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pymupdf
+python-docx
+markdown
+requests
+langchain
+openai
+python-dotenv
